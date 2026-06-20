@@ -1,0 +1,33 @@
+
+- 
++ # Virtual Environment
++ .venv/
++ venv/
++ env/
++ ENV/
++ 
++ # Python bytecode
++ __pycache__/
++ *.py[cod]
++ *$py.class
++ *.so
++ .Python
++ 
++ # Generated reports
++ report_*.json
++ 
++ # IDE and editor files
++ .vscode/
++ .idea/
++ *.swp
++ *.swo
++ *~
++ 
++ # OS files
++ .DS_Store
++ Thumbs.db
++ 
++ # Temporary files
++ *.tmp
++ .cache/
++ 

@@ -1,0 +1,35 @@
+{
+  "username": "_sameer20.__",
+  "found": [
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/_sameer20.__"
+    },
+    {
+      "platform": "Pinterest",
+      "url": "https://www.pinterest.com/_sameer20.__"
+    },
+    {
+      "platform": "Twitch",
+      "url": "https://www.twitch.tv/_sameer20.__"
+    }
+  ],
+  "not_found": [
+    "GitHub",
+    "Reddit",
+    "LinkedIn",
+    "YouTube",
+    "Medium",
+    "DevTo",
+    "Keybase",
+    "HackerNews",
+    "ProductHunt",
+    "Pastebin",
+    "Gitlab",
+    "Bitbucket",
+    "StackOverflow",
+    "Quora",
+    "Snapchat"
+  ],
+  "timestamp": "2026-06-20 07:46:46.454790"
+}
